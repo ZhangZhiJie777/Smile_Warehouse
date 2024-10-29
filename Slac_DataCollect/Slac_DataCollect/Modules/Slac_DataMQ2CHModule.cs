@@ -184,6 +184,7 @@ namespace Slac_DataCollect.Modules
         /// <param name="systemConfig">系统参数配置</param>
         public Slac_DataMQ2CHModule()
         {
+
             LogConfig.WriteRunLog("MQ2CH", $"———— ———— ———— ———— ———— ———— ————\r\n");
             LogConfig.WriteRunLog("MQ2CH", $"MQ2CH服务开始启动");
 
@@ -302,8 +303,8 @@ namespace Slac_DataCollect.Modules
 
                 if (httpClient != null)
                 {
-                    // 关闭HttpClient对象，释放资源
-                    httpClient.Dispose();
+                    // 关闭HttpClient对象，释放资源    
+                    httpClient.Dispose();   
                     httpClient = null;
                     LogConfig.WriteRunLog("MQ2CH", $"clickhouse连接关闭成功");
                 }
