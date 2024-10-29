@@ -1,0 +1,8 @@
+2024-10-28 16:25:55 794  获取数据库配置参数异常Error：System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Slac_DataCollect.Modules.Slac_DataMQ2MQModule.GetParamConfig() 位置 E:\Project\NewCodeFile\Slac_DataCollect\Slac_DataCollect\Modules\Slac_DataMQ2MQModule.cs:行号 91
+
+2024-10-28 17:19:33 689  获取数据库配置参数异常Error：System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Slac_DataCollect.Modules.Slac_DataMQ2MQModule.GetParamConfig() 位置 E:\Project\NewCodeFile\Slac_DataCollect\Slac_DataCollect\Modules\Slac_DataMQ2MQModule.cs:行号 91
+
+2024-10-28 17:19:33 713  本地、远端MQ服务器连接失败：None of the specified endpoints were reachable
+

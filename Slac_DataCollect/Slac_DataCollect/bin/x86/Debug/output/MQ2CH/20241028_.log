@@ -1,0 +1,26 @@
+Error:System.Data.SQLite.SQLiteException (0x80004005): SQL logic error
+no such table: data2api
+   在 System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   在 System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   在 System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   在 System.Data.SQLite.SQLiteDataReader.NextResult()
+   在 System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   在 System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.SQLite.SQLiteCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   在 Slac_DataCollect.Common.ConfigSQL.Get_data2api_list() 位置 E:\Project\NewCodeFile\Slac_DataCollect\Slac_DataCollect\Common\ConfigSQL.cs:行号 68
+   在 Slac_DataCollect.Modules.Slac_DataMQ2CHModule..ctor() 位置 E:\Project\NewCodeFile\Slac_DataCollect\Slac_DataCollect\Modules\Slac_DataMQ2CHModule.cs:行号 200 @ 2024-10-28 14:21:53
+
+Error:ServiceStack.Redis.RedisResponseException: invalid password, sPort: 0, LastCommand: 
+   在 ServiceStack.Redis.RedisNativeClient.CreateResponseError(String error) 位置 C:\src\ServiceStack.Redis\src\ServiceStack.Redis\RedisNativeClient_Utils.cs:行号 149
+   在 ServiceStack.Redis.RedisNativeClient.ExpectSuccess() 位置 C:\src\ServiceStack.Redis\src\ServiceStack.Redis\RedisNativeClient_Utils.cs:行号 383
+   在 ServiceStack.Redis.RedisNativeClient.SendExpectSuccess(Byte[][] cmdWithBinaryArgs) 位置 C:\src\ServiceStack.Redis\src\ServiceStack.Redis\RedisNativeClient_Utils.cs:行号 264
+   在 ServiceStack.Redis.RedisNativeClient.Connect() 位置 C:\src\ServiceStack.Redis\src\ServiceStack.Redis\RedisNativeClient_Utils.cs:行号 44
+   在 ServiceStack.Redis.RedisNativeClient.AssertConnectedSocket() 位置 C:\src\ServiceStack.Redis\src\ServiceStack.Redis\RedisNativeClient_Utils.cs:行号 107
+   在 ServiceStack.Redis.RedisNativeClient.SendCommand(Byte[][] cmdWithBinaryArgs) 位置 C:\src\ServiceStack.Redis\src\ServiceStack.Redis\RedisNativeClient_Utils.cs:行号 186
+   在 ServiceStack.Redis.RedisNativeClient.SendExpectSuccess(Byte[][] cmdWithBinaryArgs) 位置 C:\src\ServiceStack.Redis\src\ServiceStack.Redis\RedisNativeClient_Utils.cs:行号 256
+   在 ServiceStack.Redis.RedisNativeClient.set_Db(Int32 value) 位置 C:\src\ServiceStack.Redis\src\ServiceStack.Redis\RedisNativeClient.cs:行号 138
+   在 Slac_DataCollect.Modules.Slac_DataMQ2CHModule..ctor() 位置 E:\Project\NewCodeFile\Slac_DataCollect\Slac_DataCollect\Modules\Slac_DataMQ2CHModule.cs:行号 220 @ 2024-10-28 14:21:53

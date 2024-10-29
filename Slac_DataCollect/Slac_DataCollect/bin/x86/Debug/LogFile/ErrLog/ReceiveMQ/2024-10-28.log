@@ -1,0 +1,97 @@
+﻿
+2024-10-28 14:19:22 347  RabbitMQ服务启动异常：None of the specified endpoints were reachable
+
+2024-10-28 14:19:25 249  ReceiveMQ模块启动数据采集异常：None of the specified endpoints were reachable
+
+2024-10-28 14:21:05 605  RabbitMQ服务启动异常：None of the specified endpoints were reachable
+
+2024-10-28 14:21:09 709  ReceiveMQ模块启动数据采集异常：None of the specified endpoints were reachable
+
+2024-10-28 14:21:27 054  RabbitMQ服务启动异常：None of the specified endpoints were reachable
+
+2024-10-28 14:21:27 060  ReceiveMQ模块启动数据采集异常：None of the specified endpoints were reachable
+
+2024-10-28 16:27:12 992  获取数据库配置参数异常Error：System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Slac_DataCollect.Modules.Slac_DataReceiveToMQModule.GetParamConfig() 位置 E:\Project\NewCodeFile\Slac_DataCollect\Slac_DataCollect\Modules\Slac_DataReceiveToMQModule.cs:行号 81
+2024-10-28 16:34:26 403  获取数据库配置参数异常Error：System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Slac_DataCollect.Modules.Slac_DataReceiveToMQModule.GetParamConfig() 位置 E:\Project\NewCodeFile\Slac_DataCollect\Slac_DataCollect\Modules\Slac_DataReceiveToMQModule.cs:行号 81
+2024-10-28 16:34:26 434  PLC连接UDP通讯失败：值不能为 null。
+参数名: ipString
+2024-10-28 16:34:26 459  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:34:28 452  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:34:30 453  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:34:32 454  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:34:34 453  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:34:36 455  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:34:38 457  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:34:40 456  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:34:42 460  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:34:58 916  获取数据库配置参数异常Error：System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Slac_DataCollect.Modules.Slac_DataReceiveToMQModule.GetParamConfig() 位置 E:\Project\NewCodeFile\Slac_DataCollect\Slac_DataCollect\Modules\Slac_DataReceiveToMQModule.cs:行号 81
+2024-10-28 16:34:58 956  PLC连接UDP通讯失败：值不能为 null。
+参数名: ipString
+2024-10-28 16:34:58 972  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:35:00 965  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:35:02 970  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:35:04 968  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:35:06 969  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:35:08 971  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:35:10 972  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:35:12 971  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:35:14 972  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:35:16 973  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:35:18 991  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:35:20 977  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:35:22 976  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:35:24 976  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:35:29 287  获取数据库配置参数异常Error：System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Slac_DataCollect.Modules.Slac_DataReceiveToMQModule.GetParamConfig() 位置 E:\Project\NewCodeFile\Slac_DataCollect\Slac_DataCollect\Modules\Slac_DataReceiveToMQModule.cs:行号 81
+2024-10-28 16:36:28 665  获取数据库配置参数异常Error：System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Slac_DataCollect.Modules.Slac_DataReceiveToMQModule.GetParamConfig() 位置 E:\Project\NewCodeFile\Slac_DataCollect\Slac_DataCollect\Modules\Slac_DataReceiveToMQModule.cs:行号 81
+2024-10-28 16:36:30 577  PLC连接UDP通讯失败：值不能为 null。
+参数名: ipString
+2024-10-28 16:36:30 605  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:36:32 599  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:36:34 599  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:36:36 600  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:36:38 601  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:36:40 601  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:36:47 370  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:36:47 371  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:36:47 371  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:36:48 607  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+
+2024-10-28 16:36:50 607  监控PLC、MQ连接状态异常：未将对象引用设置到对象的实例。
+

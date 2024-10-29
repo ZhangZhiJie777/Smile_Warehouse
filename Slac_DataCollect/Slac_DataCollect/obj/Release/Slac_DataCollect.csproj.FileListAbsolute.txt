@@ -1,0 +1,7 @@
+E:\Project\NewCodeFile\Slac_DataCollect\Slac_DataCollect\obj\Release\Slac_DataCollect.csproj.AssemblyReference.cache
+E:\Project\NewCodeFile\Slac_DataCollect\Slac_DataCollect\obj\Release\Slac_DataCollect.FormPage.frm_mq2ch_V0.resources
+E:\Project\NewCodeFile\Slac_DataCollect\Slac_DataCollect\obj\Release\Slac_DataCollect.FormPage.frm_RcvToMQ.resources
+E:\Project\NewCodeFile\Slac_DataCollect\Slac_DataCollect\obj\Release\Slac_DataCollect.MainForm.resources
+E:\Project\NewCodeFile\Slac_DataCollect\Slac_DataCollect\obj\Release\Slac_DataCollect.Properties.Resources.resources
+E:\Project\NewCodeFile\Slac_DataCollect\Slac_DataCollect\obj\Release\Slac_DataCollect.csproj.GenerateResource.cache
+E:\Project\NewCodeFile\Slac_DataCollect\Slac_DataCollect\obj\Release\Slac_DataCollect.csproj.CoreCompileInputs.cache
